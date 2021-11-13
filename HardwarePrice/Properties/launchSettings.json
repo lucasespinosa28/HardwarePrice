@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "HardwarePrice": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "IEXEC_IN": "/iexec_in",
+        "IEXEC_OUT": "/iexec_out "
+      }
+    }
+  }
+}
